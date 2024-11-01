@@ -9,7 +9,7 @@ The [Large Language Model Agents MOOC, Fall 2024][2], led by [Dawn Song][3] Prof
 
 ## Labs
 
-- Lab 1: [Summarizing Unstructured, Natural-Language Data (Restaurant Reviews)][21]
+- Lab 1: ✅ [Summarizing Unstructured, Natural-Language Data (Restaurant Reviews)][21] 
 - Lab 2
 - Lab 3
 
