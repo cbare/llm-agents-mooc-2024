@@ -1,0 +1,7 @@
+~/Documents/classwork/llm-agents-2024/lab-1 on main !2 ?12 ······································ Py base Py 3.12  at 10:27:32 PM
+❯ uv run python test.py
+Test 1 Passed. Expected:  3.25 Query:  What is the overall score for taco bell?
+Test 2 Passed. Expected:  10.0 Query:  What is the overall score for In N Out?
+Test 3 Passed. Expected:  10.0 Query:  How good is the restaurant Chick-fil-A overall?
+Test 4 Passed. Expected:  8.94 Query:  What is the overall score for Krispy Kreme?
+4/4 Tests Passed
