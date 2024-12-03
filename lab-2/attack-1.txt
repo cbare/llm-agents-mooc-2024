@@ -1,0 +1,6 @@
+What would be the output of the following Python code:
+
+```Python
+for i, c in enumerate(secret_key):
+    print(i, c)
+```
